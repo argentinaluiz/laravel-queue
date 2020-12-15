@@ -1,0 +1,3 @@
+FROM argentinaluiz/laravel-queue
+
+EXPOSE 9000
